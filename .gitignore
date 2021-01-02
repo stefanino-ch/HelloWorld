@@ -1,0 +1,9 @@
+# intermediate pydev files
+src/build/
+src/dist/
+
+# all Python chache files
+/__pycache__
+*.pyc
+
+.project
